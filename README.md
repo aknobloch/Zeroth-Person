@@ -9,4 +9,4 @@ The software uses two webcams (either USB connected, internal or both) and micro
 
 The video is then exported in a SBS format ready for viewing through a Google Cardboard, ViewMaster VR or other similar phone-enabled VR consumption device.
 
-This project was cut short, and while it is mostly functional there are a few bugs and functional requirements that need to be addressed. These are noted in the Issues section.
+This project was cut short due to the semester ending, and while it is mostly functional there are a few bugs and functional requirements that need to be addressed. These are noted in the Issues section.
